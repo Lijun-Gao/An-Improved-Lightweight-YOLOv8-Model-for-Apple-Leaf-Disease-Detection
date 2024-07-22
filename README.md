@@ -1,0 +1,2 @@
+# An-Improved-Lightweight-YOLOv8-Model-for-Apple-Leaf-Disease-Detection
+This study presents a lightweight algorithm for apple leaf disease detection, optimized for mobile and embedded devices. Enhancing YOLOv8n with GhostConv, C3Ghost, Global Attention Mechanism, and improved BiFPN, we achieve a 39.7% model size reduction to 3.8MB and an mAP@0.5 of 86.9%, outperforming YOLOv7-Tiny, YOLOv6, YOLOv5s, and YOLOv3-Tiny.
